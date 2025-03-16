@@ -1,4 +1,5 @@
-# university-assignments
+# applied-mathematics-uni-assignments
+
 
 The __Applied Mathematics Uni Assignments__ is a collection of my academic assignments from various courses during my Applied Mathematics Bachelor's studies at __Wrocław University of Science and Technology__. This GitHub repository serves as a centralized hub to store and showcase the projects and assignments completed throughout my academic journey.
 
